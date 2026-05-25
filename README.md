@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aadil</h1>
 
-<!--
-**aadilmodsofficial/aadilmodsofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Interested in Android Developing, Programming & Reverse Engineering
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 📱 Android Developer & Modder
+- 🔧 Working with Kotlin, Java, and C++
+- 🧠 Interested in Android Developing, Programming and Reverse Engineering
+- 🎮 Building Android apps, mods, and tools
+- ⚡ Focused on native Android development and low-level systems
+- 🌐 Basic web development using HTML, CSS, and JavaScript
+
+---
+
+## 🛠 Languages & Technologies
+
+### Mobile Development
+- Kotlin
+- Java
+- Android SDK
+
+### Native Development
+- C++
+- JNI
+- NDK
+- ARM32 / ARM64
+
+### Reverse Engineering
+- Native Hooking
+- Memory Reading
+- Offset Research
+- Zygisk / Magisk Modules
+- Game Analysis
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📌 Current Projects
+
+- Android Mod Menu Framework
+- Native ESP / Overlay Systems
+- Root-based Android Tools
+- JNI Hooking Systems
+- Game Research & Utility Tools
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadilmodsofficial&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilmodsofficial&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- Youtube: https://www.youtube.com/@AadilMods
+- Website: https://aadilmods.com/
+- Telegram: https://t.me/aadilmodsofficial
+
+---
+
+<p align="center">
+Thanks for visiting my profile ❤️
+</p>
